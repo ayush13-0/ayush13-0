@@ -91,6 +91,9 @@ From global companies & platforms:
 - 📌 SQL | Python | Data Engineering
 ➡ Repo: (https://github.com/ayush13-0/Ecommerce-Python-SQL-Project)
 
+------------------------------------------------------------------------------------------------------------------------------
+
+
 # 📈 GitHub Stats
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush13-0&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush13-0&layout=compact&theme=tokyonight)
