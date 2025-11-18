@@ -1,4 +1,4 @@
-## 🌟 Ayush Kumar — Data Science | AI | Machine Learning | Analytics
+## 🌟 AYUSH — Data Science | AI | Machine Learning | Analytics
 📍 Data Science Enthusiast | 📊 Business Analytics | 🤖 Machine Learning | 🧠 NLP | 📈 Data Visualization
 - Driven and detail-oriented Data Science & Machine Learning student with hands-on experience in Python, data analytics, visualization, and end-to-end ML projects.
 - Passionate about extracting insights from data and building intelligent systems that create real-world impact.
@@ -22,7 +22,8 @@ Currently sharpening skills through internships, real datasets, and continuous l
 
 🤝 Open to internships, freelancing, collaborations and open-source work
 
-#🧰 Skills & Tools
+# 🧰 Skills & Tools
+
 🐍 Programming & Scripting
 - Python • SQL • NumPy • Pandas • Matplotlib • Seaborn
 
