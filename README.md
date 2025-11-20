@@ -66,27 +66,33 @@ From global companies & platforms:
 - 📌 NLP | ML | Python | Text Processing
 - ➡ Repo: (https://github.com/ayush13-0/AI-Sentiment-Analysis-ML-NLP)
 
-🔹 2. *Hybrid Data Extraction: Web Scraping + REST API*
+🔹 2. *TrustCheck – News Authenticity Classifier (Fake News Detection)*
+- Offline ML/NLP system to classify news as REAL or FAKE using TF-IDF + Logistic Regression.
+- Includes full training pipeline, preprocessing, evaluation, and a Streamlit web app.
+- 📌 ML | NLP | Text Classification | Streamlit
+- ➡ Repo: https://github.com/ayush13-0/TrustCheck-News-Authenticity-Classifier
+
+🔹 3. *Hybrid Data Extraction: Web Scraping + REST API*
 - Combined scraping from BooksToScrape with OpenFoodFacts API → analytics & visualization.
 - 📌 ETL | API | Web Scraping | Data Analysis
 - ➡ Repo: (https://github.com/ayush13-0/CodeAlpha_Hybrid-Data-Extraction-Analytics)
 
-🔹 3. *Global Retail Sales EDA*
+🔹 4. *Global Retail Sales EDA*
 - Data-driven insights into sales, trends, customer behavior & profitability.
 - 📌 EDA | Visualization | Business Analytics
 - ➡ Repo: (https://github.com/ayush13-0/CodeAlpha_Global-Retail-Sales-EDA)
 
-🔹 4. *ML Health Insurance Claim Fraud Detection (ML)*
+🔹 5. *ML Health Insurance Claim Fraud Detection (ML)*
 - Logistic Regression, Random Forest, XGBoost → ML pipeline for fraud prediction.
 - 📌 ML | Fraud Analytics | Feature Engineering
 - ➡ Repo: (https://github.com/ayush13-0/ML-Health-Insurance-Claim-Fraud-Detection)
 
-🔹 5. *Consumer Sentiment Analysis*
+🔹 6. *Consumer Sentiment Analysis*
 - NLP analysis using VADER, TextBlob & ML classification models.
 - 📌 NLP | Text Analytics | ML
 - ➡ Repo: (https://github.com/ayush13-0/CodeAlpha_Consumer-Sentiment-Analysis)
 
-🔹 6. *E-Commerce Python + SQL Project*
+🔹 7. *E-Commerce Python + SQL Project*
 - Database queries + Python analysis → customers, orders, products & revenue.
 - 📌 SQL | Python | Data Engineering
 - ➡ Repo: (https://github.com/ayush13-0/Ecommerce-Python-SQL-Project)
