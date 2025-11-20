@@ -107,6 +107,6 @@ From global companies & platforms:
 
 # AYUSH
 🔗 Connect With Me
-📧 Email: bhanuseenu914@gmail.com
+- 📧 Email: bhanuseenu914@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/ayush130
 - 🔗 GitHub: https://github.com/ayush13-0
